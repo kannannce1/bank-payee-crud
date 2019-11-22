@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## List Payee
 
-![alt text](https://raw.githubusercontent.com/kannannce1/bank-payee-crud/blob/master/list-payee.png)
+![alt text](https://raw.githubusercontent.com/kannannce1/bank-payee-crud/master/list-payee.png)
 
 ## Add Payee
 
